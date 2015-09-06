@@ -1,0 +1,13 @@
+
+
+{% codeblock _.compact http://underscorejs.org/#compact Underscore.js %}
+_.compact([0, 1, false, 2, '', 3]);
+=> [1, 2, 3]
+{% endcodeblock %}
+
+
+{% img [class names] /path/to/image [width] [height] [title text [alt text]] %}
+
+
+{% 2015/09/2015-08-25-new-engine slug %}
+
