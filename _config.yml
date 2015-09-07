@@ -80,6 +80,7 @@ imagemin:
 theme: next
 
 disqus_shortname: cri5ti
+google_analytics: UA-43450851-1
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
